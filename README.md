@@ -13,7 +13,7 @@ Python Programming language along with data analytical skills are implemented �
 - Turbidity etc... on the potability of water 🚰 (suitable to drink or not).
 ---
 ### Skills Applied 🛠️
-***Python,Data Analysis,Analytical Skills***
+*Python,Data Analysis,Analytical Skills*
 ---
 ### Conclusion 😃
 After a thorough Explanatory Data Analysis, it is concluded that the potability of water is not just limited to exceeding the limit of one particular quality of water. The potability is a mixed reaction of many factors. It is highly unpredictable to decide whether water is able to drink or not based on only one metric value.
